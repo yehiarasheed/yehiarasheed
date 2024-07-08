@@ -5,7 +5,7 @@ A computer science and engineering student at the German University in Cairo. As
 
 - 🎮 Seeking collaboration with fellow developers! The enchanting realms of OOP and game projects are where I thrive. Let’s create something remarkable together!
 
--  <img src="https://github.com/yehiarasheed/yehiarasheed/assets/157399068/d39445c4-4cea-46e6-913d-e3ee51969e27" width="35"/> I’m currently learning **C# and UiPath Tools** for RPA (Robotic Process Automation).
+-  <img src="https://github.com/yehiarasheed/yehiarasheed/assets/157399068/640a14a5-662a-4246-8d0d-204f4a6f928a" width="35"/> I’m currently learning **C# and UiPath Tools** for RPA (Robotic Process Automation).
 - 📫 How to reach me: Via Email or LinkedIn
 
      <p align="left">

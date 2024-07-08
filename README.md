@@ -11,7 +11,7 @@ A computer science and engineering student at the German University in Cairo. As
      <p align="left">
       <a href="mailto:yehiarasheed@gmail.com">
          <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.linkedin.com/in/yehia-rasheed/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 ## Languages and Tools I use

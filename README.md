@@ -14,6 +14,13 @@ A computer science and engineering student at the German University in Cairo. As
       <a href="https://www.linkedin.com/in/yehia-rasheed/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
+<details>
+  <summary><h1><b>Badges and Certifications</b></h1></summary>
+  <h3>Badges</h3>
+<a href="https://holopin.io/yehiarasheed">
+     <img alt="Holopin" title="Holopin" src="https://holopin.me/yehiarasheed"/></a>
+</details>
+  
 ## Languages and Tools I use
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="IntelliJ" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>

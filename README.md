@@ -15,7 +15,7 @@ A computer science and engineering student at the German University in Cairo. As
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 <details>
-  <summary><h1><b>Badges and Certifications</b></h1></summary>
+  <summary><h2>Badges and Certifications</h2></summary>
   <h3>Badges</h3>
 <a href="https://holopin.io/yehiarasheed">
      <img alt="Holopin" title="Holopin" src="https://holopin.me/yehiarasheed"/></a>

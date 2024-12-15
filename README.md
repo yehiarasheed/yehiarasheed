@@ -3,7 +3,7 @@
 A computer science and engineering student at the German University in Cairo. As a software developer, I’ve worked on a variety of unique projects, including those related to object-oriented programming (OOP), creating beautiful GUIs, logic programming and automating processes using RPA. Feel free to explore my repositories and discover the exciting work I’ve been involved in! 🌟🚀
 - ⚡️ I’m currently working on **Attack On Titan: Utopia**; a one-player, endless, tower defense game inspired by the hit anime Attack on Titan. [Check it out here!](https://github.com/yehiarasheed/Attack-On-Titan-Utopia)
 
-- 🎮 Seeking collaboration with fellow developers! The enchanting realms of OOP and game projects are where I thrive. Let’s create something remarkable together!
+- 🎮 Seeking Fellow Developers for Collaboration. Passionate about OOP and game development, I’m eager to team up with like-minded developers to create something remarkable. Let’s build extraordinary projects together!
 
 -  <img src="https://github.com/yehiarasheed/yehiarasheed/assets/157399068/640a14a5-662a-4246-8d0d-204f4a6f928a" width="35"/> I’m currently learning **Flutter and Dart** for Mobile Development.
 - 📫 How to reach me: Via Email or LinkedIn

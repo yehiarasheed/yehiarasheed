@@ -6,7 +6,7 @@ A Computer Science and Engineering student at the German University in Cairo, pa
 
 ### 🎯 What I'm Up To:
 
-*   ⚡️ Currently pouring my energy into **Attack On Titan: Utopia** – a solo-developed, endless tower defense game inspired by the iconic anime. [Face the Titans here!](https://github.com/yehiarasheed/Attack-On-Titan-Utopia)
+*   ⚡️ Currently pouring my energy into **Attack On Titan: Utopia** – an endless tower defense game inspired by the iconic anime. [Face the Titans here!](https://github.com/yehiarasheed/Attack-On-Titan-Utopia)
 *   🤝 Always excited to connect with fellow developers! If you're passionate about innovative software, OOP, or game development, let's chat about creating something remarkable.
 *  <img src="https://github.com/yehiarasheed/yehiarasheed/assets/157399068/640a14a5-662a-4246-8d0d-204f4a6f928a" width="30" valign="bottom"/> Currently sharpening my skills in **C programming** to build a stronger foundational understanding of systems and performance.
 *   📫 **Let's Connect:**
